@@ -96,7 +96,3 @@ A RESTful API for tracking job applications built with Node.js, Express, and Mon
 - `applicationDate`: Date
 - `interviewDate`: Date
 - `timestamps`: Boolean
-
-## License
-
-ISC 
